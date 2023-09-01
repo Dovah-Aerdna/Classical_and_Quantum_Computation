@@ -1,0 +1,1 @@
+Can be considered a special case of [[probabilistic algorithms]].

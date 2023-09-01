@@ -1,0 +1,4 @@
+#tofinish 
+QFT and Hadamard transform can be seen as the same transform, considering the qubits as different indexes for different groups [Fourier transform on finite (abelian) groups](https://en.wikipedia.org/wiki/Fourier_transform_on_finite_groups) 
+
+are both types of [Fourier transforms on finite groups](https://en.wikipedia.org/wiki/Fourier_transform_on_finite_groups "Fourier transform on finite groups"); the first on ( Z / 2 Z ) n ![{\displaystyle (\mathbb {Z} /2\mathbb {Z} )^{n}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/5686cb9b950687c6d056088cb2314829751e9ac9) and the second on Z / 2 n Z ![{\displaystyle \mathbb {Z} /2^{n}\mathbb {Z} }](https://wikimedia.org/api/rest_v1/media/math/render/svg/28526fdf9d9d5ac32c95d34e9414ef6db8642b31) .

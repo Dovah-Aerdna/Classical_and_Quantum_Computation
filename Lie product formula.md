@@ -1,0 +1,1 @@
+https://en.wikipedia.org/wiki/Lie_product_formula

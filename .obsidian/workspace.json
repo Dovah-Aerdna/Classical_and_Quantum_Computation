@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "2f5ee3d300df2d14",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5b57282a92dd195",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bad67113027e958f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "92a15eef9739b333",
+    "type": "split",
+    "children": [
+      {
+        "id": "3fdc00c595b366fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab1fa8381371e6d9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b86bb48f25829d8a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "60e87ba760485089",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 281.5
+  },
+  "right": {
+    "id": "4117cbc73e5442d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0d66bd02782ab88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a26c89b9be66d14e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "073f2183d616290c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8994776f7543ce08",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e87d65c5998c82ef",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ab1fa8381371e6d9",
+  "lastOpenFiles": [
+    "CHSH Game.md",
+    "State tomography.md",
+    "Indirect Measurement.md",
+    "Swap test.md",
+    "Hadamard Test.md",
+    "SPAM - State Preparation And Measurement.md",
+    "Measurement Error Mitigation.md",
+    "coherent noise.md",
+    "Transfinity.md",
+    "Fourier Transform.md",
+    "Optimization Problem.md",
+    "Convolution.md",
+    "Integral Transform.md",
+    "Wavelet Transform.md",
+    "STFT - Short Time Fourier Transform.md",
+    "tomo.md",
+    "Runtime J.md",
+    "img/runtime_classical_vs_quantum_error_corrected_mitigated.png",
+    "error correction.md",
+    "Quantum Circuit.md",
+    "Error Suppression and mitigation.md",
+    "Probabilistic Error Cancellation.md",
+    "img/Probabilistic_error_cancellation.png",
+    "ZNE - Zero Noise Extrapolation.md",
+    "img/Zero_noise_extrapolation.png",
+    "Pauli Twirling.md",
+    "Dynamical Decoupling.md",
+    "pulses.md",
+    "Pulse scaling.md",
+    "img/staircase_vs_brickwork.png",
+    "img/5_GHZ_routing_star_topology.png",
+    "img/5_qubit_GHZ_routing.png",
+    "img/time_evolution_observable_circuit.png",
+    "img/estimating_observables_circuit.png",
+    "img/iterative_QPE_step_k.png",
+    "img/iterative_QPE_step_2.png",
+    "Untitled.canvas",
+    "Algebraic_structures",
+    "img"
+  ]
+}
