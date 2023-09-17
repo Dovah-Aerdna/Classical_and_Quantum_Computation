@@ -35,6 +35,18 @@ or, a plus sign, since its action on the computational basis (NOT) is analogous 
 
 $Z$ is a *phase-flip*;
 $$Z|0\rangle=|0\rangle \qquad Z|1\rangle=-|1\rangle$$
+
+The eigenstates are:
+
+
+	$X$
+	$$|+\rangle\propto |0\rangle+|1\rangle \qquad |-\rangle\propto|0\rangle-|1\rangle$$
+	$Y$
+	$$|+i\rangle\propto |0\rangle+i|1\rangle \qquad |-i\rangle\propto|0\rangle-i|1\rangle$$
+	$Z$
+	$$|0\rangle \qquad |1\rangle$$
+
+
 - ## Phase
 	add phase to the component $|1\rangle$:
 	$$P_\theta=\begin{pmatrix}

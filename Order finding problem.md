@@ -9,7 +9,7 @@ There are no efficient classical algorithms to solve this problem. Furthermore, 
 This problem can be [[Order finding by QPE|solved by a quantum algorithm]] using [[QPE - Quantum Phase Estimation]].
 This problem is called the order finding problem since $r$ is the order of $a$ under the following definitions:
 $$\mathbb{Z}_N=\{0,1,\cdots,N-1\}$$
-The elements coprimes to $N$ are:
+Is the [[Rings|ring]] The elements coprime to $N$ are:
 $$\mathbb{Z}_N^*=\{a\in\mathbb{Z}_N : gcd(a,N)=1\}$$
 For every element $a\in \mathbb{Z}_N^*$ there exist an integer $r$ such that $a^r\equiv1 \ \mod N$  and the smallest  $r$ is the **order** of $a$. 
 

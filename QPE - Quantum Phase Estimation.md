@@ -15,13 +15,21 @@ QPE is related to the [[phase kickback]] trick. In particular the following circ
 ![[QPE_trick.png]]
 
 After the controlled gate, the phase is encoded in the $|1\rangle$ component of the first qubit. The last Hadamard allows to perform the measurement.
-With a bit of algebra and the [[duplication formulae]], the proability of measuring $0$ or $1$ is:
+With a bit of algebra and using the phase kickback trick (since $|\psi\rangle$ is an eigenstate of the controlled unitary operation), the last state before the last hadamard is:
+
+$$|S\rangle=|\psi\rangle\otimes\left(\frac{1}{\sqrt{2}}|0\rangle+\frac{\exp{i\theta}}{\sqrt{2}}|1\rangle\right)$$
+
+The last hadamard introduce interference and the phase has a measurable effect:
+
+$$|S_f\rangle=|\psi\rangle\otimes\left(\frac{1+\exp{i\theta}}{\sqrt{2}}|0\rangle+\frac{1-\exp{i\theta}}{\sqrt{2}}|1\rangle\right)$$
+
+The probability of measuring $0$ or $1$ is:
 
 $$P_0(\theta)=\left| \frac{1+e^{i\theta}}{2} \right|^2=\cos^2\left( \frac{\theta}{2}\right)$$
 $$P_1(\theta)=\left| \frac{1-e^{i\theta}}{2} \right|^2=\sin^2\left( \frac{\theta}{2}\right)$$
 This "trick" is actually QPE using 1 qubit. 
 - The phase can be found by repeating the experiment and obtaining statistic on the probabilities. 
-- If instead a single measurement is made, the information gained is binary. This means that the information gained is a bit $a$ after the fractional point of: $\theta/(2\pi)=0.a$  
+- If we are promised that $\theta=0$ or $\theta=\pi$ a single measurement can be made and the information gained is binary. This means that the information gained is a bit $a$ after the fractional point of: $\theta/(2\pi)=0.a$  
 
 To get more precision, i.e. more decimal points, more qubits must be used. In the i-th qubits, it is encoded the information about the i-th binary fractional digit. This can be achieved observing that:
 

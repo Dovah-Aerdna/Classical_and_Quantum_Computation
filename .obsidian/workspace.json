@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a5b57282a92dd195",
+        "id": "7b88b84d53178904",
         "type": "tabs",
         "children": [
           {
-            "id": "bad67113027e958f",
+            "id": "27aa68d01357f9bc",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dupl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,6 +120,16 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "dcf2b8e7c21e9f5c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ]
       }
@@ -138,44 +148,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ab1fa8381371e6d9",
+  "active": "27aa68d01357f9bc",
   "lastOpenFiles": [
-    "CHSH Game.md",
-    "State tomography.md",
-    "Indirect Measurement.md",
-    "Swap test.md",
-    "Hadamard Test.md",
-    "SPAM - State Preparation And Measurement.md",
-    "Measurement Error Mitigation.md",
-    "coherent noise.md",
-    "Transfinity.md",
-    "Fourier Transform.md",
-    "Optimization Problem.md",
-    "Convolution.md",
-    "Integral Transform.md",
-    "Wavelet Transform.md",
-    "STFT - Short Time Fourier Transform.md",
-    "tomo.md",
-    "Runtime J.md",
+    "Shor's Algorithm.md",
+    "Order finding by QPE.md",
+    "geometric series.md",
+    "ring.md",
+    "Order finding problem.md",
+    "Strassen algorithm.md",
+    "Algebraic_structures/Rings.md",
+    "continued fraction algorithm.md",
+    "Farey sequence.md",
+    "mediant.md",
+    "binary search.md",
+    "Euclid's algorithm.md",
+    "QPE - Quantum Phase Estimation.md",
+    "duplication formulae.md",
+    "img/QFT_circuit.png",
+    "QFT - Quantum Fourier Transform.md",
+    "Hermitian matrix.md",
+    "Lie theory.md",
+    "Lie product formula.md",
+    "Deutsch-Jozsa algorithm.md",
+    "Classical Computation on Quantum Circuits.md",
+    "Gates.md",
+    "Famous States.md",
+    "Pauli matrices.md",
+    "Deutsch's algorithm.md",
+    "Unitary matrix.md",
+    "phase kickback.md",
     "img/runtime_classical_vs_quantum_error_corrected_mitigated.png",
-    "error correction.md",
-    "Quantum Circuit.md",
-    "Error Suppression and mitigation.md",
-    "Probabilistic Error Cancellation.md",
     "img/Probabilistic_error_cancellation.png",
-    "ZNE - Zero Noise Extrapolation.md",
     "img/Zero_noise_extrapolation.png",
-    "Pauli Twirling.md",
-    "Dynamical Decoupling.md",
-    "pulses.md",
-    "Pulse scaling.md",
     "img/staircase_vs_brickwork.png",
     "img/5_GHZ_routing_star_topology.png",
     "img/5_qubit_GHZ_routing.png",
     "img/time_evolution_observable_circuit.png",
     "img/estimating_observables_circuit.png",
     "img/iterative_QPE_step_k.png",
-    "img/iterative_QPE_step_2.png",
     "Untitled.canvas",
     "Algebraic_structures",
     "img"

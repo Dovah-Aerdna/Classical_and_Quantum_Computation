@@ -15,3 +15,10 @@ where the brackets indicates the internal product.
 - Similarly, the difference $A-A^\dagger$ is anti-hermitian. This implies that the commutator of two Hermitian matrices is skew-Hermitian.
 - An arbitrary square matrix $C$ can be written as the sum of a Hermitian matrix $A$ and a skew-Hermitian matrix $B$ ([[Toeplitz decomposition]])
 $$C = A + B \quad\text{with}\quad A = \frac{1}{2}\left(C + C^\mathsf{H}\right) \quad\text{and}\quad B = \frac{1}{2}\left(C - C^\mathsf{H}\right)$$
+
+# Infinitesimal generators of Unitary Transformations
+
+Every [[Unitary matrix|unitary transformation]] ($UU^\dagger=U^\dagger U=1$)in generated infinitesimally by an Hermitian transformation:
+
+$$U(\varepsilon)=1+i \varepsilon H$$
+where $H$ is hermitian. This is related to [[Lie theory]]. 
